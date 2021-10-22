@@ -26,10 +26,22 @@ A game made purely in JavaScript basically it is a memory game using animations.
 <br>
 <br>
 
-<div display="flex">
-  <img src="https://github.com/Lucas-dev-br/Projeto_Jogo_Da_Memoria/blob/master/GifJogoDaMemoria.gif">
-  <img src="https://github.com/Lucas-dev-br/Projeto_Jogo_Da_Memoria/blob/master/GifJogoDaMemoria2.gif">
+<div align="center">
+  <img src="https://github.com/Lucas-dev-br/Projeto_Jogo_Da_Memoria/blob/master/GifJogoDaMemoria.gif" height="350">
+  <img src="https://github.com/Lucas-dev-br/Projeto_Jogo_Da_Memoria/blob/master/GifJogoDaMemoria2.gif" height="350">
 </div>
+
+<br>
+<br>
+<br>
+
+## 🕹️ Technologies
+
+This project was developed with the following technologies:
+
+- ✔️HTML
+- ✔️CSS
+- ✔️JavaScript
   
 
 
